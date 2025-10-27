@@ -1,6 +1,9 @@
 package algorithm;
 
 public class PalindromeNumber {
+
+//    https://leetcode.com/problems/palindrome-number/
+
     public boolean palindrome(int x){
         int originalNumber = x;
         int reversedNumber = 0;
