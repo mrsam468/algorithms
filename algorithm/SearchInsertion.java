@@ -1,5 +1,5 @@
 package algorithm;
-
+//https://leetcode.com/problems/search-insert-position/
 public class SearchInsertion {
     public int searchInsert(int[] nums,int target){
         int j =0;
